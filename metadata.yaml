@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42308
     wikipedia: http://www.gutenberg.org/ebooks/author/45230
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38009#The-Story-of-Seville
 gutenberg_bookshelf: Mediæval Town Series
 gutenberg_issued: '2011-11-13'
 gutenberg_type: Text
