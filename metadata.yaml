@@ -1,0 +1,40 @@
+_repo: The-Story-of-Seville_38009
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Hartley, C. Gasquoine (Catherine Gasquoine)
+    aliases:
+    - Gallichan, Walter M., Mrs.
+    - Hartley, Catherine Gasquoine
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '9204'
+    url: http://www.gutenberg.org/2009/agents/9204
+covers:
+- cover_type: archival
+  image_path: 38009-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gallichan, Walter M. (Walter Matthew)
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '42308'
+    url: http://www.gutenberg.org/2009/agents/42308
+    wikipedia: http://www.gutenberg.org/ebooks/author/45230
+description: ''
+gutenberg_bookshelf: Mediæval Town Series
+gutenberg_issued: '2011-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38009'
+  lccn: 03032811
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Mediæval town series
+subjects:
+- !lcsh 'Seville (Spain)'
+- !lcc 'DP'
+title: The Story of Seville
+url: http://www.gutenberg.org/ebooks/38009
